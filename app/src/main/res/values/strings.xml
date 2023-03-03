@@ -3,4 +3,6 @@
     <string name="choose_file">Choose file</string>
     <string name="scan">Scan</string>
     <string name="generate">generate</string>
+    <string name="openinbrowser">openinbrowser</string>
+    <string name="camera">camera</string>
 </resources>
